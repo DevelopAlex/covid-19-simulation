@@ -1,2 +1,2 @@
-# covid-19-simulation
+# COVID-19 Simulation
 Simulating COVID-19 in Python using the SEIR Model
